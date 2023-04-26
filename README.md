@@ -1,4 +1,4 @@
 # marriage-certificate-dapp
-Issue  mariage certificate as NFT onpolygon
+Issue  marriage certificates as NFTs on polygon
 
 
